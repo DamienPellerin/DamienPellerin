@@ -4,7 +4,7 @@
 
 + 🌱 I’m currently learning React.js, Node.js
 + 📫 How to reach me damienpellerin19@gmail.com
-+ 🕶️ visit my [portfolio](https://damien-pellerin.fr)
++ 🕶️ Visit my [Portfolio](https://damien-pellerin.fr)
 <!--
 **DamienPellerin/DamienPellerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
