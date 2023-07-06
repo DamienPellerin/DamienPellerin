@@ -1,7 +1,9 @@
  ## Hello 👋, I'm Dam
 	
- #### Développeur Web & Web mobile
+ #### 💻 Développeur Web & Web mobile
 
++ 🌱 I’m currently learning React.js, Node.js
++ 📫 How to reach me damienpellerin19@gmail.com
 <!--
 **DamienPellerin/DamienPellerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
