@@ -1,6 +1,6 @@
  ## Hello 👋, I'm Dam
 	
- #### 💻 Web & Mobile Web Developer
+ #### 💻  Web Developer
 
 + 🌱 I’m currently learning React.js, Node.js
 + 📫 How to reach me damienpellerin19@gmail.com
