@@ -2,7 +2,7 @@
 	
  #### 💻  Web Developer
 
-+ 🌱 I’m currently learning React.js, Node.js
++ 🌱 I’m currently learning React.js, Redux, Typescript, Node.js ...
 + 📫 How to reach me damienpellerin19@gmail.com
 + 🕶️ Visit my [Portfolio](https://damien-pellerin.fr)
 <!--
